@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844978025381",
+    "firebase_url": "https://amajon-34b91.firebaseio.com",
+    "project_id": "amajon-34b91",
+    "storage_bucket": "amajon-34b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844978025381:android:101918085d06d52e7b2e4c",
+        "android_client_info": {
+          "package_name": "com.example.hp.amajon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844978025381-uhueuchbtgc30b378ovmq5pmptjmg5kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.amajon",
+            "certificate_hash": "9856b6a0a745282822bfe50b3b872d1036a718d4"
+          }
+        },
+        {
+          "client_id": "844978025381-vc9usr7e4ho8b6p3g989dp8o0ij3pjj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9adQPPhJF7XthC2P7rsH7KOLHjMaMAmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844978025381-vc9usr7e4ho8b6p3g989dp8o0ij3pjj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
